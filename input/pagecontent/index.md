@@ -1,4 +1,3 @@
-Hello world
 
 Two use-cases 
 - [Adolescent](adolescent.html)

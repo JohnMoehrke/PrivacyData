@@ -1,4 +1,4 @@
-## Introduction
+### Introduction
 
 IN scope for this use case:
 1. Reproductive health data
@@ -19,7 +19,7 @@ Questions of patient capacity
 Unstructured data, including note
 Discussions of safety, appropriateness of sharing (deferred to Delphi, Implementation)
 
-## Data Granularity Constraints
+### Data Granularity Constraints
 
 Data granularity constraints - needs further vetting by Terminology workstream and Advisory Groups
 
@@ -47,7 +47,7 @@ Identification:
 Sexual orientation
 Partners
 
-## Story
+### Story
 
                         
 "19 y/o Wanda Maximoff: born in Slovakia, came to US (Boston, MA) at age 2.  Currently at school at MouseHouse U in Orlando.  Established FL residence with father/wife for in-state tuition, and is on her father's employer-sponsored health insurance (It's not Easy Being Green, Inc. or ""Green"") under the ACA.  Wanda receives her healthcare at a number of different entities: her school health center, a private PCP in FL, and MA Community Health Center when she is with her mother in MA.  Wanda's medical history is notable for chronc constipation, for which she takes Miralax, and an allergy to amoxicillin (hives).  Wanda became sexually active with M partners at age 15.  OB Hx: G2P0002.  She had a D&C abortion at 18 weeks gestation at age 18 in MA and a medical abortion at 9 weeks gestation in MA (mifepristone + misoprostol) earlier this year at age 19, after which she started Depo Provera, which are continued at her university health service.  With her first pregnancy, she wasn't sure if she wanted to keep the baby, so she had a normal 1st trimester ultrasound at 10 weeks and a normal quad screen at 14 weeks, before deciding on termination when her boyfriend broke up with her.  Wanda does not want either parent to know about her abortions or Depo.  All reproductive care took place in MA.  She does not want healthcare providers in FL to know about the abortions in MA due to concern for criminalization.  Wanda paid for the first abortion out of pocket but feared that bill was submitted to the payer anyway due to an administrative error; the second (medical) abortion was part of a more comprehensive medical visit that was billed to her father's insurance; she requests that information about the abortion not be shared with the payer.  She has no portal proxies set up.
@@ -72,9 +72,9 @@ As for immigration status, the FL PCP has Petra listed as ""U.S. Citizen or Lawf
                         
 Background: Family moved from Slovakia to Boston, MA when Wanda was 2.  Petra was born in US a year later.  Both parents have greencards but are not naturalized.  Parents divorced when Wanda was 9 and Petra was 6 years old.  Mother (Natalya) stayed in Boston, Father (Django) moved to Orlando, FL.  Mom had primary custody.  Father got remarried an Orlando, FL.  Wife (Marya) is American, but did not adopt fathers' children, and Wanda never became naturalized.  Petra spends some holidays with father and his wife in Orlando.  Wanda is in school in Orlando, but spends most school vacations back in MA. 						
 
-## Details
+### Details
 
-### Wanda
+#### Wanda
 
                                 
 "19 y/o Wanda Maximoff: born in Slovakia, came to US (Boston, MA) at age 2.  Currently at school at MouseHouse U in Orlando.  Established FL residence with father/wife for in-state tuition, and is on her father's employer-sponsored health insurance (It's not Easy Being Green, Inc. or ""Green"") under the ACA.  Wanda receives her healthcare at a number of different entities: her school health center, a private PCP in FL, and MA Community Health Center when she is with her mother in MA.  Wanda's medical history is notable for chronc constipation, for which she takes Miralax, and an allergy to amoxicillin (hives).  Wanda became sexually active with M partners at age 15.  OB Hx: G2P0002.  She had a D&C abortion at 18 weeks gestation at age 18 in MA and a medical abortion at 9 weeks gestation in MA (mifepristone + misoprostol) earlier this year at age 19, after which she started Depo Provera, which are continued at her university health service.  With her first pregnancy, she wasn't sure if she wanted to keep the baby, so she had a normal 1st trimester ultrasound at 10 weeks and a normal quad screen at 14 weeks, before deciding on termination when her boyfriend broke up with her.  Wanda does not want either parent to know about her abortions or Depo.  All reproductive care took place in MA.  She does not want healthcare providers in FL to know about the abortions in MA due to concern for criminalization.  Wanda paid for the first abortion out of pocket but feared that bill was submitted to the payer anyway due to an administrative error; the second (medical) abortion was part of a more comprehensive medical visit that was billed to her father's insurance; she requests that information about the abortion not be shared with the payer.  She has no portal proxies set up.
@@ -87,7 +87,7 @@ Background: Family moved from Slovakia to Boston, MA when Wanda was 2.  Petra wa
                                 
 TODO: The tables didn't convert to markdown tables automatically
 
-### Petra
+#### Petra
 
                                             
 "16 y/o Pietro ""Petra"" Maximoff, born in Boston, MA.  Petra gets her healthcare at MA Community Health Center and is on her mother's insurance (Mellow Yellow, ""Yellow"").  Both of Petra's parents have access to her MA health provider online portal, though access is limited by vendor-specific controls for adolescents.  Petra is generally healthy except for moderate persistent asthma for which she uses an Pulmicort Flexhaler 180mcg 2 puffs BID and albuterol PRN.  Petra began questioning her gender identity (sex assigned at birth = M) at age 12.  She disclosed this to her physician, her sister, and her mother, but does not want her father or his wife to know.  She is attracted to both males and females, though is only sexually active with multiple male partners, only sometimes using condoms; she wants to keep this information private from both her mother and her father.  She has gone on PrEP and also does not want her mother or father to know about this.  Petra occasionally needs urgent care for her asthma when she is FL, for which she sees her father's private PCP, but is hesitant to tell this doctor about her PrEP or other SOGI history because their Portal gives full access to her mother, father, and stepmother.  Yesterday, she presented to the health system in MA where she is tested for gonorrhea, chlamydia, and HIV; testing is sent to a 3rd party lab.  Gonorrhea and HIV are negative.  MA has a state law requiring additional consent related to HIV (which some entities interpret as any HIV testing and some entities interpret as positive HIV results only).  Chlamydia came back positive today; Azithromycin for the patient as well as Expedited Partner Therapy are sent to pharmacy.  

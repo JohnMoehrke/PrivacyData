@@ -1,5 +1,5 @@
 
-## Introduction
+### Introduction
 
 IN scope for this use case:
 1. Behavioral Health data
@@ -17,7 +17,7 @@ Questions of patient capacity
 Non-structured data, including incarcertation, including note
 Discussions of safety, appropriateness of sharing (deferred to Delphi, Implementation)
 
-## Story
+### Story
 
 Story:					
 "Carl Fredricksen is an older adult with hypertension (HTN), bunions, depression, and a history of opiate use disorder (OUD).
